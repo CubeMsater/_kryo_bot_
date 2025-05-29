@@ -1,2 +1,3 @@
+Pillow
 aiosqlite
 discord.py
